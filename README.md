@@ -4,7 +4,6 @@
 <img src="https://github.com/lcspaiva87/Podcastr-NLW-5/blob/main/public/logo.svg">
 </p>
 
-
 <p align="center">
 <img src="https://img.shields.io/david/dev/lcspaiva87/RocketShoes?style=flat-square">  
 <img src="https://img.shields.io/apm/l/github">
@@ -35,9 +34,6 @@
 ## Como fazer funcionar em sua máquina
 
 ```sh
-Execute esse comando para instalatar todas as dependências
-$ git clone https://github.com/lcspaiva87/Podcastr-NLW-5.git && cd podcastr
-
 # Install the dependencies
 yarn
 
