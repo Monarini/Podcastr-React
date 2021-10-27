@@ -3,11 +3,6 @@
 <p align="center">
 <img src="https://github.com/lcspaiva87/Podcastr-NLW-5/blob/main/public/logo.svg">
 </p>
-  
-  
-
-
-  
 
 
 <p align="center">
@@ -23,10 +18,9 @@
 
 <p align="center">
 <img src="https://github.com/lcspaiva87/Podcastr-NLW-5/blob/main/public/gif_.gif"  width="70%" height="70%">
-<img src="https://github.com/lcspaiva87/Podcastr-NLW-5/blob/main/public/img.png" width="70%" height="70%">  
+<img src="https://github.com/lcspaiva87/Podcastr-NLW-5/blob/main/public/img.png" width="70%" height="70%">
 
 </p>
-
 
 ## :rocket: Tecnologias
 
@@ -45,7 +39,7 @@ Execute esse comando para instalatar todas as dependências
 $ git clone https://github.com/lcspaiva87/Podcastr-NLW-5.git && cd podcastr
 
 # Install the dependencies
-yarn 
+yarn
 
 # start the json-server api
 yarn api:server
@@ -64,4 +58,5 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ---
 
-Feito com ♥ by Lucas Antonio
+Feito com ♥ by Bruno Monarini
+```
